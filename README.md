@@ -27,7 +27,7 @@ Start an HTTP server on a specific port.
 Run the Python script to serve web pages.
 
 ### Step 8:
-erve the HTML pages.
+Serve the HTML pages.
 
 ### Step 9:
 Start the server script and check for errors.
@@ -48,8 +48,6 @@ content = """
             <b>Transport Layer:</b>	Uses TCP (ensures reliable delivery) <br>
             <b>Internet Layer:</b> Uses IP for addressing and routing <br>
             <b>Network Access Layer:</b> Uses Ethernet, Wi-Fi <br>
-            
-
         </ul>
     </body>
 </html>
